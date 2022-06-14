@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 ### ☺️Name: Chenxi Qiao
 ### 🏫School: Kearns Saint Ann School
-### What Do I teach: Web Development, Intro to CSP, Digital Literacy 
+### What Do I teach: 
+### Web Development
+### Intro to CSP
+### Digital Literacy 
 ### 
