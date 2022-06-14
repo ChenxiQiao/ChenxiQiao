@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ☺️Name: Chenxi Qiao
-### 🏫School: Kearns Saint Ann School
-### What Do I teach: 
-### Web Development
-### Intro to CSP
-### Digital Literacy 
+# ☺️Name: Chenxi Qiao
+# 🏫School: Kearns Saint Ann School
+# What Do I teach: 
+# Web Development
+# Intro to CSP
+# Digital Literacy 
 ### 
